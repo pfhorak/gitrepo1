@@ -1,0 +1,84 @@
+.top{font:sans-serif;
+border:none;
+color:black;
+display:inline;
+float:right;
+margin-top: 20px;
+margin-right: 40px;
+}
+
+.top a:hover {text-decoration: underline;}
+.top a:visited {text-decoration: none;}
+
+#signin{padding:4px 8px 4px 8px;
+background-color: blue;
+color:white;
+border-radius: 5px;
+margin-top: 16px;
+}
+
+#signin a:hover{text-decoration: none;}
+#singin a:visited{text-decoration: none;}
+
+#logo{display:block;
+	height: 95px;
+	width: 269px;
+	
+	margin: auto; 
+	padding-top: 150px;
+	padding-bottom: 20px;
+	clear: both;
+}
+
+#search{display: block;
+		clear:both;
+		margin:auto;
+		width: 400px;
+		padding-bottom: 10px;
+		
+	}
+
+#lucky{display:inline-block;
+		clear:both;
+		color:black;
+		background-color: #c8c8c8;
+		border-radius: 2px;
+		margin-top: 20px;
+		margin-left: 20%;
+		border: solid black 1px;
+		padding: 5px 20px;
+		margin-bottom: 20px;
+		}
+
+.bottom{border:none;
+font:sans-serif;
+display: inline-block;
+color:black;
+background-color: #c8c8c8;
+padding: 5px;
+
+}
+
+#footer{display:block;
+	background-color: #c8c8c8;
+	border-radius: 5px;
+	margin-bottom: -10px;
+	padding-bottom: 30px;
+	
+}
+
+#bleft{float:left;}
+
+#bright{float: right;}
+
+
+#lucky a:hover{text-decoration: bold}
+#lucky a:visited{text-decoration: none}
+#lucky a:link{text-decoration: none;}
+
+/*{border: dashed blue 1px;}*/
+
+
+
+
+
